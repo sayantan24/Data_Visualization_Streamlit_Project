@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run bostonapp2.py
+web: sh setup.sh && streamlit run newyork_accident_visualization.py
