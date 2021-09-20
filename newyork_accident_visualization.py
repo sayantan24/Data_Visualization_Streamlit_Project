@@ -8,8 +8,13 @@ data_url = (
 "dataset.csv"
 )
 
-st.title("Motor Vehicle Collisions in New York City")
-st.markdown("This application is a streamlit dashboard to analyze motor vehicle collisions in NYC")
+st.title("Motor Vehicle Accident Visualization in New York City")
+st.markdown("Data visualization using streamlit")
+st.write("""
+#
+** Made by Sayantan Pradhan 101803693 COE14**
+""")
+st.write('---')
 
 @st.cache(persist =True)
 def load_data(nrows):
