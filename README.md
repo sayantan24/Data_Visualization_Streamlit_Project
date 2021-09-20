@@ -18,3 +18,6 @@ Visit the website:- https://streamlit-visualize.herokuapp.com/
     <th><img src="Images/Screenshot5.png"/></th>
   </tr>
  </table>
+ 
+ ## Flowchart of methodology
+ <img src="Images/flowchart_heroku.png"/>
