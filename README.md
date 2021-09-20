@@ -2,7 +2,7 @@
 ## Streamlit project to visualize the data of motor vehicle collisions in the city of New York
 <p>The project is made using streamlit,pandas,pydeck and plotly libraries for web app and visualization.
 Visit the website:- https://streamlit-visualize.herokuapp.com/</p>
-<p>Dataset used is saved as final.csv</p>
+<p>Dataset used is of motor vehicle collisions in New York city. Source:-https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95</p>
 
 ## Images of the working project
 
