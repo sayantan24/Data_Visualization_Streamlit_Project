@@ -7,14 +7,14 @@ Visit the website:- https://streamlit-visualize.herokuapp.com/
 
 <table style="width:100%">
   <tr>
-    <th><img src="images/Screenshot1.png"/></th>
-    <th><img src="images/Screenshot2.png"/></th>
+    <th><img src="Images/Screenshot1.png"/></th>
+    <th><img src="Images/Screenshot2.png"/></th>
   </tr>
   <tr>
-    <th><img src="images/Screenshot3.png"/></th>
-    <th><img src="images/Screenshot4.png"/></th>
+    <th><img src="Images/Screenshot3.png"/></th>
+    <th><img src="Images/Screenshot4.png"/></th>
   </tr>
   <tr>
-    <th><img src="images/Screenshot5.png"/></th>
+    <th><img src="Images/Screenshot5.png"/></th>
   </tr>
  </table>
